@@ -1,0 +1,18 @@
+body {
+    background-color: red;
+    color: fuchsia;
+    margin: 45px;
+    border: 8px dotted #694302;
+}
+h1 {
+    border: 16px groove #506221;
+    padding: 15px;
+}
+a {
+    color: darkblue;
+}
+a:hover {
+    color: rgb(34, 71, 53);
+background-color: white;
+font-size: 65px;
+}
